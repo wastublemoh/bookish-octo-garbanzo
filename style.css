@@ -1901,6 +1901,9 @@ body{
   background-color: black;
 }
 
+.breakpoint-on .classy-navbar .classy-menu {
+    background-color: none; }
+
 /* ======= The End ======= */
 
 /*# sourceMappingURL=style.css.map */
