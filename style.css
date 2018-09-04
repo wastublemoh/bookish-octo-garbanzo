@@ -1895,6 +1895,10 @@ body{
   background-color-color: black;
 }
 
+.breakpoint-on .classynav > ul > li > a{
+  background-color: black;
+}
+
 /* ======= The End ======= */
 
 /*# sourceMappingURL=style.css.map */
