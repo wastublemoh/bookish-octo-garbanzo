@@ -1902,7 +1902,7 @@ body{
 }
 
 .breakpoint-on .classy-navbar .classy-menu {
-    background-color: none !important; }
+    background: none !important; }
 
 /* ======= The End ======= */
 
