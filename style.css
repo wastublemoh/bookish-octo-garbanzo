@@ -1895,7 +1895,7 @@ body{
   background-color-color: black;
 }
 
-.breakpoint-on .classynav > ul > li > a{
+.breakpoint-on .classynav > ul{
   background-color: black;
 }
 
