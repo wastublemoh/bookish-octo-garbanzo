@@ -160,6 +160,7 @@ img {
   padding-bottom: 100px; }
 
 .section-padding-100-0 {
+  padding-left: 100px;
   padding-top: 100px;
   padding-bottom: 0; }
 
@@ -1505,7 +1506,6 @@ img {
       .contact-content p {
         font-size: 16px; } }
   .contact-content .single-contact-info {
-    padding-left: 100px;
     position: relative;
     margin-bottom: 40px; }
     .contact-content .single-contact-info:last-child {
