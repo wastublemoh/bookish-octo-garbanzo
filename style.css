@@ -1903,6 +1903,10 @@ body{
 .breakpoint-on .classy-navbar .classy-menu {
     background: none !important; }
 
+.col-6 {
+    max-width: 100%;
+}
+
 /* ======= The End ======= */
 
 /*# sourceMappingURL=style.css.map */
