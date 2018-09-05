@@ -297,9 +297,9 @@ img {
   display: inline-block;
   min-width: 180px;
   height: 50px;
-  color: #191919;
-  background-color: #ffffff;
-  border: 1px solid #191919;
+  color: white;
+  background-color: #d1bb95;
+  border: 1px solid white;
   border-radius: 2px;
   padding: 0 30px;
   font-size: 14px;
@@ -308,9 +308,9 @@ img {
   font-weight: 400; }
   .nikki-btn.active, .nikki-btn:hover, .nikki-btn:focus {
     font-size: 14px;
-    color: #ffffff;
+    color: white;
     font-weight: 400;
-    background-color: #d1bb95;
+    background-color: #a08d6e;
     border-color: #d1bb95; }
   .nikki-btn.btn-sm {
     min-width: 80px;
